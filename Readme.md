@@ -38,6 +38,6 @@ Make sure you have the standard Python data science libraries installed:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-###2. Fire up the notebook
+### 2. Fire up the notebook
 Download the repository, make sure the kc_house_data.csv dataset is placed in the same folder, and run:
-###jupyter notebook's house.ipynb
+### Jupyter notebook's house.ipynb
