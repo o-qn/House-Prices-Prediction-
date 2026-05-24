@@ -2,7 +2,7 @@
 
 This repository contains my final assessment project for the Data Analytics with Python course. The objective of this project was to clean, analyze, and build a series of predictive machine learning models using the King County housing dataset (which covers home sales in the Seattle area) to estimate residential property prices based on various features.
 
-Everything is self-contained inside the `house.ipynb` notebook, which walks through the entire data pipeline from initial data preparation to model deployment and evaluation.
+Everything is self-contained inside the `housePricesPrediction.ipynb` notebook, which walks through the entire data pipeline from initial data preparation to model deployment and evaluation.
 
 ## What I Did in This Project
 
